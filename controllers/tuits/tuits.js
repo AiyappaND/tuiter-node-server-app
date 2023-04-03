@@ -11,6 +11,8 @@ export default [
         "replies": 123,
         "retuits": 345,
         "likes": 1241,
+        "disliked": false,
+        "dislikes": 45,
         "handle": "@BestSports",
         "tuit": "Well, it looks like global warming is taking its toll on ice hockey! With rising temperatures and melting ice rinks, players will have to trade in their skates for flippers and their sticks for snorkels. It's going to be a whole new game out there! Can you imagine the look on the referee's face when the puck starts floating away? And forget about the penalty box, we'll need a penalty pool! Who knows, maybe polar bears will take over as the new MVPs. It's going to be a real \"ice\" age for hockey fans."
     },
@@ -26,7 +28,9 @@ export default [
         "liked": false,
         "replies": 241,
         "retuits": 626,
+        "disliked": true,
         "likes": 843,
+        "dislikes": 46,
         "tuit": "It's official, folks. The geese are revolting! These feathered fiends have had enough of being the butt of our jokes and are ready to take over the world. With their razor-sharp beaks and honking battle cry, they're sure to be a formidable force. Say goodbye to your jobs, your homes, and your families because the geese are coming for them all! They'll take over the skies, the streets, and the sidewalks, leaving nothing but a trail of feathers and terror in their wake. And don't even think about trying to negotiate with them, they're not interested in bread crumbs or goodwill. It's the Age of the Goose, and we're all just living in it."
     },
     {
@@ -38,9 +42,11 @@ export default [
         "image": "chainsaw.jpg",
         "userIcon": "alien.webp",
         "liked": true,
+        "disliked": false,
         "replies": 156,
         "retuits": 845,
         "likes": 357,
+        "dislikes": 47,
         "handle": "@homedepot",
         "tuit": "Move over, guard dogs! The new home defense champion is here, and it's none other than the chainsaw! With its intimidating roar and razor-sharp teeth, it's the perfect way to scare off any intruders. Plus, you can also use it to take care of those pesky overgrown trees in your yard. It's a win-win situation! Forget about alarms and security cameras, just rev up that chainsaw and watch the bad guys run for the hills. And if anyone tries to break into your house, just chase them down with your trusty chainsaw in hand. They won't know what hit 'em! So, say goodbye to boring old pepper spray and hello to the most hardcore home defense tool on the market."
     },
@@ -52,10 +58,12 @@ export default [
         "time": "5h",
         "image": "machine-gun-wikipedia.jpeg",
         "liked": false,
+        "disliked": true,
         "userIcon": "onion.webp",
         "replies": 473,
         "retuits": 225,
         "likes": 995,
+        "dislikes": 48,
         "handle": "@betterthanrottentomatoes",
         "tuit": "Move over Citizen Kane, Rambo is the true cinematic masterpiece! With its gripping plot, complex characters, and dazzling action sequences, it's a true tour-de-force of cinema. Who needs Orson Welles when you have Sylvester Stallone flexing his muscles and firing off guns? Rambo is the ultimate hero, a man of few words and even fewer shirts, who can take on the entire army with just a knife and a bad attitude. It's a cinematic triumph that will go down in history as the greatest movie of all time. So, forget about those boring dramas and rom-coms, it's time to embrace the true king of cinema - Rambo!"
     }
